@@ -8,6 +8,5 @@ user experiences; proficiency in leveraging HTML, CSS, JavaScript, React.js, Nod
 
 ## Social media :mailbox_with_no_mail:
 
-[[Twitter URL]](https://twitter.com/andrewchmr)
-[[Linkedin URL]](https://www.linkedin.com/in/andriy-chemerynskiy/)
+[[Linkedin URL]](https://www.linkedin.com/in/sahana-sreedhara/)
 
