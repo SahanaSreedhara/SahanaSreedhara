@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I’m Sahana Sreedhara 👋 
 
-<!--
-**SahanaSreedhara/SahanaSreedhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer ([Infosys](https://www.infosys.com/)) and Photographer
 
-Here are some ideas to get you started:
+Open to new technologies and development opportunities!
+A Frontend developer with experience in designing and implementing responsive and seamless
+user experiences; proficiency in leveraging HTML, CSS, JavaScript, React.js, Node.js, Bootstrap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social media :mailbox_with_no_mail:
+
+[[Twitter URL]](https://twitter.com/andrewchmr)
+[[Linkedin URL]](https://www.linkedin.com/in/andriy-chemerynskiy/)
+
